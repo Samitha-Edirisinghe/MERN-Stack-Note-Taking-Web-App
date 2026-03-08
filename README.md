@@ -1,4 +1,4 @@
-# CollaboNotes -- Collaborative Note-Taking App
+# MERN Stack Note Taking Web App
 
 A full-stack MERN application for collaborative note-taking with rich
 text editing and real-time search.
