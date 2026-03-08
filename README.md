@@ -35,7 +35,7 @@ text editing and real-time search.
 1.  Clone the repository
 
 ``` bash
-git clone https://github.com/yourusername/collabo-notes.git
+git clone https://github.com/Samitha-Edirisinghe/MERN-Stack-Note-Taking-Web-App.git
 cd collabo-notes
 ```
 
